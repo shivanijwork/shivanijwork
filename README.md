@@ -9,7 +9,7 @@ I thrive on transforming raw data into actionable insights and am currently expa
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shivani-jain13/)  
-- [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=shivanijwork@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=shivanijwork@gmail.com)  
 ---
 
 ## 💻 Tech Stack:
