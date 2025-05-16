@@ -1,37 +1,16 @@
 ## Hi there 👋
 
-<!--
-**shivanijwork/shivanijwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋 I'm **Shivani Jain**, a Passionate and results-driven Data Analyst and Software Developer with a solid foundation in leveraging data to solve complex real-world challenges. I recently completed my Master’s in Computer Applications (MCA) from VIT, where I honed my skills in data analysis, machine learning, and software development. My hands-on experience includes developing predictive models for loan approval, building hybrid machine learning architectures for flood risk assessment, and creating insightful data visualizations to drive decision-making.
 
-Here are some ideas to get you started:
+I thrive on transforming raw data into actionable insights and am currently expanding my expertise into Python Full Stack Development to build end-to-end solutions. Known for my analytical mindset and problem-solving approach, I am eager to bring my technical proficiency and passion for innovation to dynamic, growth-oriented teams. Let's collaborate to make data-driven success a reality!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-
-Hey there! 👋 I'm **Shivani Jain**, a passionate **Data Analyst and Software Developer** with a keen interest in **Data Science**, **Machine Learning**, and **IoT-based projects**. Currently pursuing my **Master's in Computer Applications (MCA)**, I am driven by a desire to create innovative solutions that bridge technology and real-world challenges.
-
-My journey in the tech world revolves around building **data-driven applications** and leveraging **machine learning** for problem-solving. I have hands-on experience in analyzing and visualizing data, developing robust algorithms, and crafting insightful models that drive decision-making.  
-
-🔍 **Curiosity and creativity** fuel my exploration of technologies, whether it's developing **ML models for satellite data fusion** or enhancing **real estate data analysis**. I strive to blend analytical thinking with practical implementation, consistently pushing boundaries to achieve efficient and impactful results.  
-
-I am dedicated to **continuous learning** and thrive on collaborating with diverse teams to tackle complex problems. Whether it's **disaster prediction models** or **satellite image processing**, I embrace every opportunity to transform ideas into actionable outcomes.  
-
-Beyond coding, I am passionate about **community engagement**, exploring innovative projects, and embracing new perspectives through hands-on experimentation.  
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shivani-jain)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShivaniJain)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/shivani.jain)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shivani-jain13/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/shivanijwork)  
+
 
 ---
 
