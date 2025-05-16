@@ -21,7 +21,7 @@ I thrive on transforming raw data into actionable insights and am currently expa
 **Others:** Git, Jupyter Notebooks, PyCharm  
 
 ---
-
+<!--
 ## 🚀 Projects:
 - **[Pansharpening Models](https://github.com/ShivaniJain/Pansharpening):**  
   Fusion of multispectral and panchromatic satellite images using hybrid ML models.  
@@ -29,7 +29,7 @@ I thrive on transforming raw data into actionable insights and am currently expa
   Real-time flood prediction using advanced data analysis and machine learning.  
 - **[Bikaner Properties](https://github.com/ShivaniJain/BikanerProperties):**  
   Real estate data analysis, visualization, and insights.  
-
+-->
 ---
 
 ## 📊 GitHub Stats:
