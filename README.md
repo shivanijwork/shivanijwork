@@ -14,11 +14,11 @@ I thrive on transforming raw data into actionable insights and am currently expa
 
 ## 💻 Tech Stack:
 **Languages:** Python, Java, C++  
-**Frameworks:** TensorFlow, PyTorch  
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+**Frameworks:** TensorFlow, PyTorch, scikit-learn, Flask  
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI  
 **Web Technologies:** HTML, CSS, JavaScript  
 **Databases:** MySQL, MongoDB  
-**Others:** Git, Jupyter Notebooks  
+**Others:** Git, Jupyter Notebooks, PyCharm  
 
 ---
 
